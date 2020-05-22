@@ -206,12 +206,26 @@
         "lines": [
           1,
           null,
+          null,
+          1,
           null
         ]
       },
       "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod-1/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod-1/spec/models/movie_actor_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
           null
         ]
       },
@@ -270,6 +284,24 @@
           null
         ]
       },
+      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod-1/app/controllers/studios_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod-1/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod-1/app/models/actor.rb": {
         "lines": [
           1,
@@ -278,6 +310,6 @@
         ]
       }
     },
-    "timestamp": 1590163364
+    "timestamp": 1590166983
   }
 }
